@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@graphprotocol/client-cli": "^2.2.19",
+    "graphql": "^16.6.0"
+  }
+}
